@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+    font-family: sans-serif;
+}
+
+
+header{
+    height: 70px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border-top: 1px solid rgb(61, 61, 61);
+    box-sizing: border-box;
+    justify-content: space-between;
+    display: flex;
+}
+img{
+    height: 80%;
+    width: 20%;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.right-side{
+    margin-top: 23px;
+    margin-right: 8%;
+    justify-content: center;
+    align-items: center;
+}
+.login{
+    position: relative;
+}
+.acreate{
+    position: relative;
+}
+.login,.acreate,#home{
+    font-size: 16px;
+}
+.or{
+    
+}
+#home{
+   margin-left: 20px; 
+   font-size: 27px;
+   position: absolute;
+   margin-top: -3px;
+}

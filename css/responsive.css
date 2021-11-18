@@ -1,0 +1,36 @@
+
+@media (max-width: 768px){
+    header{
+        height: 50px;
+        background-color: rgb(255, 255, 255);
+    }
+    img{
+        margin-left: 25px;
+    }
+    .right-side{
+        margin-top: 14px;
+    }
+    .login{
+        font-size: 11px;
+    }
+    .acreate{
+        font-size: 10px;
+    }
+    .or{
+        font-size: 10px;
+    }
+    #home{
+        margin-left: 10px; 
+        font-size: 18px;
+        margin-top: -0.3px;
+     }
+
+
+
+@media(min-width:200px){
+        img{
+            height: 80%;
+            width: 90px;  
+        }
+    }
+}
